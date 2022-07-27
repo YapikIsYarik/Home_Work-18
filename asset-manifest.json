@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Home_Work-18/static/css/main.371cab53.css",
+    "main.js": "/Home_Work-18/static/js/main.5db14593.js",
+    "static/js/787.080222f6.chunk.js": "/Home_Work-18/static/js/787.080222f6.chunk.js",
+    "static/media/Anakin.jpg": "/Home_Work-18/static/media/Anakin.9482bac92d4c3d564b9f.jpg",
+    "index.html": "/Home_Work-18/index.html",
+    "main.371cab53.css.map": "/Home_Work-18/static/css/main.371cab53.css.map",
+    "main.5db14593.js.map": "/Home_Work-18/static/js/main.5db14593.js.map",
+    "787.080222f6.chunk.js.map": "/Home_Work-18/static/js/787.080222f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.371cab53.css",
+    "static/js/main.5db14593.js"
+  ]
+}
